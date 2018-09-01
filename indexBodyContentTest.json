@@ -1,0 +1,12 @@
+[
+  {
+    "image_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Black_Recliner.jpg/220px-Black_Recliner.jpg",
+    "title": "Recliner From Wikipedia",
+    "label": "recliner"
+  },
+  {
+    "image_src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Adirondack_chair_25.jpg/360px-Adirondack_chair_25.jpg",
+    "title": "Adirondack Chair From Wikipedia",
+    "label": "chair"
+  }
+]

@@ -1,0 +1,19 @@
+version: "3"
+services:
+  bd:
+    image: gyang274/yg-vs-bd:v1.0.0
+    container_name: yg-vs-bd
+    restart: "always"
+  es:
+    image: gyang274/yg-vs-es:v1.0.0
+    container_name: yg-vs-es
+    restart: "always"
+  fd:
+    image: gyang274/yg-vs-fd:v1.0.0
+    container_name: yg-vs-fd
+    ports:
+      - "80:80"
+    depends_on:
+      - bd
+      - es
+    restart: "always"
