@@ -1,6 +1,6 @@
 # Visual Search with Tensorflow Serving, Elasticsearch, VueJS and Nginx
 
-## Demo Video on Youtube
+## [Demo Video on Youtube](https://www.youtube.com/watch?v=f_ZRX3mC6RI&t=1s)
 
 [Integrate Textual and Visual Search using Tensorflow Serving and Elasticsearch](https://www.youtube.com/watch?v=f_ZRX3mC6RI&t=1s)
 
