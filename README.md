@@ -1,5 +1,11 @@
 # Visual Search with Tensorflow Serving, Elasticsearch, VueJS and Nginx
 
+## Demo Video on Youtube
+
+[Integrate Textual and Visual Search using Tensorflow Serving and Elasticsearch](https://www.youtube.com/watch?v=f_ZRX3mC6RI&t=1s)
+
+This demo is created from visual-search-v2.0, which includes color filter, numeric filter and text search. We are going to update this git repo (visual-search-v1.0) soon.
+
 ## One Step Setup 
 
 Create a visual search platform in one step:
